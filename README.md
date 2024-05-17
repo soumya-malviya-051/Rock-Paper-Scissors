@@ -3,17 +3,17 @@ Welcome to Tic Rock Paper Scissor, a simple yet engaging single-player game buil
 
 # Features:
 **1. Single-Player Mode:** Play against the computer AI, making strategic moves to outsmart your opponent.
-**Simple Interface:** Enjoy a minimalist design that focuses on gameplay without distractions.
-**Intuitive Controls:** Easily navigate through the game with straightforward controls and clear instructions.
-**Interactive Gameplay:** Experience dynamic gameplay as you engage in a battle of wits against the computer.
+**2. Simple Interface:** Enjoy a minimalist design that focuses on gameplay without distractions.
+**3. Intuitive Controls:** Easily navigate through the game with straightforward controls and clear instructions.
+**4. Interactive Gameplay:** Experience dynamic gameplay as you engage in a battle of wits against the computer.
 
 # How to Play:
 Select Your Move: Choose between Rock, Paper, or Scissors.
-**Strategize:** Plan your moves carefully to outwit the computer AI.
-**Winning Conditions:** Follow the traditional rules of Rock Paper Scissors - Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.
-**Scorekeeping:** Keep track of your wins, losses, and draws as you aim for victory.
+**1. Strategize:** Plan your moves carefully to outwit the computer AI.
+**2. Winning Conditions:** Follow the traditional rules of Rock Paper Scissors - Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.
+**3. Scorekeeping:** Keep track of your wins, losses, and draws as you aim for victory.
 
 # Technologies Used:
-HTML: For structuring the web page and creating the user interface.
-CSS: For styling the game elements and enhancing visual appeal.
-JavaScript: For implementing game logic, user interaction.
+HTML: For structuring the web page and creating the user interface. <br/>
+CSS: For styling the game elements and enhancing visual appeal. <br/>
+JavaScript: For implementing game logic, user interaction.  <br/>
